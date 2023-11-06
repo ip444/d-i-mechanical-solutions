@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+p{
+    background-color: red;
+    margin-inline: 200px;
+    background-size: 4px;
+    padding: 5px;
+    border: 2px;border-radius: 12px;
+}
+a:link{
+    color: black;
+    text-decoration-line: none;
+}
+a:visited{
+    color: black;
+    text-decoration-line: none;
+}
+a:hover{
+    color: black;
+    text-decoration-line: none;
+}
+a:active{
+    color: black;
+    text-decoration-line: none;
+}
+button{
+    color: white;
+    border-color: darkgoldenrod;
+    border-radius: 10px;
+    background-color: red;
+    margin-inline: 550px;
+}
+div{
+    margin: 20px;
+}
+h1{
+    margin-inline: 200px;
+    color: red;
+    font-weight: 26px;
+    font: 16px;
+    background: center;color: red;
+}
